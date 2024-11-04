@@ -13,4 +13,12 @@
 1. https://github.com/langchain-ai/langchain-academy/tree/main
 2. https://github.com/langchain-ai/langgraph-101
 
+https://medium.com/@kbdhunga/beginners-guide-to-langgraph-understanding-state-nodes-and-edges-part-1-897e6114fa48
+
+https://medium.com/p/6e4898eb76d8
+
+https://github.com/DhunganaKB/OpenAI-Chat/blob/main/DemoAgent/app.py
+
+
+
 
